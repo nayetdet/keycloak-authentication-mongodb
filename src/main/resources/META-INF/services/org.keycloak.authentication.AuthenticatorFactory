@@ -1,0 +1,2 @@
+io.github.nayetdet.keycloak.authentication.mongodb.authenticator.idp.IdpAuthenticatorFactory
+io.github.nayetdet.keycloak.authentication.mongodb.authenticator.registration.RegistrationAuthenticatorFactory
