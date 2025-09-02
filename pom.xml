@@ -17,7 +17,7 @@
         <keycloak.version>26.0.6</keycloak.version>
         <jboss-logging.version>3.6.0.Final</jboss-logging.version>
         <autoservice.version>1.1.1</autoservice.version>
-        <mongodb-driver-sync.version>4.11.1</mongodb-driver-sync.version>
+        <mongodb-driver-sync.version>5.5.1</mongodb-driver-sync.version>
         <lombok.version>1.18.38</lombok.version>
         <maven-shade.version>3.6.0</maven-shade.version>
         <maven-compiler.version>3.14.0</maven-compiler.version>
